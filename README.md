@@ -1,4 +1,4 @@
-# [UNMAINTAINED] TiddliWiki 5 Docker image
+# TiddliWiki 5 Docker image
 
 Run TiddlyWiki 5 via Docker.
 
