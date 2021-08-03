@@ -1,5 +1,6 @@
 # Custom Content
 - add bash in container for convenient config tiddlywiki, you can use `docker exec -it <container id> bash` to enter cointainer.
+- add args for Authorization protection: "readers=(anon)" "writers=(authenticated)"
 
 > # TiddliWiki 5 Docker image
 > 
